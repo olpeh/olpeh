@@ -2,6 +2,8 @@
 
 Check out my blog at [olavihaapala.fi](https://olavihaapala.fi) and follow me on Twitter [@0lpeh](https://twitter.com/0lpeh)
 
+You can also [Ask Me Anything](https://github.com/olpeh/ama)
+
 <!--
 **olpeh/olpeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
